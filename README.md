@@ -1,5 +1,5 @@
 <h1>Azusa220</h1>
-<img src="https://github-profile-trophy.vercel.app/?username=Azusa220&theme=onedark" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azusa220&show_icons=true&locale=en&layout=compact" alt="azusa220" /></p>
 
 <h4>Skills</h4>
 <p>
