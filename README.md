@@ -1,30 +1,17 @@
-# <div align="center">Hi 👋, I'm Azusa220</div>  
-  
+<h1><img src="https://media.discordapp.net/attachments/881682054796959759/899538710897496074/iyagaruuribo.gif" width="30"/> Natsumikan2782</h1>
+<img src="https://github-profile-trophy.vercel.app/?username=Azusa220&theme=onedark" />
 
-### <div align="center">I'm Azusa! I'm working OneServer since 2022 🚀</div>  
-  
-
-- 🔭 I’m currently working on making discord bots  
-  
-
-- 🌱 I’m currently learning Java and Swift  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=azusa220&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
+<h4>Skills</h4>
+<p>
+  <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+</p>
+<h4>Editors</h4>
+<p>
+  <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Intelij IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" />
+</p>
+<h4>Others</h4>
+<p>
+  <img alt="Twitter" src="https://img.shields.io/twitter/url?label=Azusa220_&style=social" />
+  <img alt="Discord" src="https://img.shields.io/badge/-Azusa%EF%BC%835812-white.svg?logo=discord&style=flat-square" />
+</p>
