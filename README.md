@@ -1,3 +1,4 @@
+<h1>Azusa220</h1>
 <img src="https://github-profile-trophy.vercel.app/?username=Azusa220&theme=onedark" />
 
 <h4>Skills</h4>
@@ -11,6 +12,6 @@
 </p>
 <h4>Others</h4>
 <p>
-  <img alt="Twitter" src="https://img.shields.io/twitter/url?label=Azusa220_&style=social" />
+  <img alt="Twitter" src="https://img.shields.io/badge/-Azusa220%EF%BC%BF-white.svg?logo=twitter&style=flat-square" />
   <img alt="Discord" src="https://img.shields.io/badge/-Azusa%EF%BC%835812-white.svg?logo=discord&style=flat-square" />
 </p>
